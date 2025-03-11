@@ -1,0 +1,10 @@
+seaborn
+xgboost
+matplotlib
+install numpy
+pandas
+scikit-learn
+keras
+tensorflow
+openpyxl
+xlrd
